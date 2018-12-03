@@ -260,7 +260,7 @@ namespace Module2_HW4
             }
             if (arrCuvant.Length == counter)
             {
-                Console.WriteLine("   The word you choosed is a palindrome!");
+                Console.WriteLine("   The word you chose is a palindrome!");
             }
             else
             {
